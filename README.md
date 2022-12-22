@@ -3,7 +3,7 @@
 ## 2022년 2학기 심화전공 컴퓨터그래픽스 팀 프로젝트  
   
 - 팀명 : 그래픽
-- 팀원 : **이효리**, 김영은, 윤수윤
+- 팀원 : **@hrlee12**, @dapin1490, @ssyyoonn
 - 구현 요구사항 수행 기록 : [Requirements.md](Requirements.md)
 - 발표 자료 : [figma - CG_final_presentation](https://www.figma.com/file/8r9lhCqbeqjQodZk2wCTwW/CG_final_presentation?node-id=0%3A1&t=lhpsYwfeWatX9uaP-1)
 - 시연 영상 링크 : <https://drive.google.com/file/d/1fuCmhOQg1AuBwjHBmOZt38tTjsP-1Xag/view?usp=sharing>
@@ -21,12 +21,12 @@
 - 명명 규칙 : 파스칼케이스(예: `PascalCase`)
 - 역할 분담 : 씬 단위 분담, 필요한 요소 각자 만들기.
     - fps캐릭터와 미니맵은 프리펩으로 공유, UI는 각자
-    - 천상(`Assets/Upperworld/`) : 무릉도원, 이효리
-    - 지상(`Assets/Middleworld/`) : 현대, 윤수윤
-    - 지하(`Assets/Lowerworld/`) : 저승, 김영은
-    - FPSCharacter(1인칭) 프리펩 : 김영은
-    - 단축키와 콜라이더 충돌을 포함한 씬 이동 스크립트 : 윤수윤
-    - 인덱스 씬 : 이효리
+    - 천상(`Assets/Upperworld/`) : 무릉도원, @hrlee12
+    - 지상(`Assets/Middleworld/`) : 현대, @ssyyoonn
+    - 지하(`Assets/Lowerworld/`) : 저승, @dapin1490
+    - FPSCharacter(1인칭) 프리펩 : @dapin1490
+    - 단축키와 콜라이더 충돌을 포함한 씬 이동 스크립트 : @ssyyoonn
+    - 인덱스 씬 : @hrlee12
 - 커밋 메시지 : 어떤 부분을 변경하였는지 또는 무엇을 하였는지 간략하게 적는 것을 권장.
 
 ---
@@ -38,14 +38,14 @@
 
 ## 발표
 ### 중간 점검 발표
-발표자 : 이효리  
-PPT 제작 : 윤수윤(씬 구상, 협업 환경), 김영은(팀원별 주요 과업, PPT 정리 및 마무리) / 구글 문서로 공동 작업  
+발표자 : @hrlee12  
+PPT 제작 : @ssyyoonn(씬 구상, 협업 환경), @dapin1490(팀원별 주요 과업, PPT 정리 및 마무리) / 구글 문서로 공동 작업  
 발표 자료 : [컴퓨터그래픽스_진행상황발표_그래픽.pptx](https://docs.google.com/presentation/d/14ZV-yekGSODbI8HuWonp2Sn4wms2TZQP/edit?usp=sharing&ouid=113309621803756900421&rtpof=true&sd=true)  
   
 ### 기말 발표
 논의 사항 : [MEMO.md](MEMO.md) 참고  
 자세한 구현 사항 : [Requirements.md](Requirements.md) 참고  
-발표자 : 이효리  
-PPT 제작 : 김영은  
-시연 영상 편집 : 윤수윤(녹화는 각자)  
+발표자 : @hrlee12  
+PPT 제작 : @dapin1490  
+시연 영상 편집 : @ssyyoonn(녹화는 각자)  
 발표 자료 : [figma - CG_final_presentation](https://www.figma.com/file/8r9lhCqbeqjQodZk2wCTwW/CG_final_presentation?node-id=0%3A1&t=lhpsYwfeWatX9uaP-1)  
